@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "184857859044",
+    "project_id": "cultivoa-f20a9",
+    "storage_bucket": "cultivoa-f20a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184857859044:android:1ea0efc3744c9751002df1",
+        "android_client_info": {
+          "package_name": "com.mycompany.cultivoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184857859044-tgssuus5nsfljj4et67gbjlfh42aegkb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cultivoa",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "184857859044-ahq1ddd4l3killkcjj3btio6iaqr7vbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPED-Zc50ow111Bn2u-Xx9XeRSkhcZtfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184857859044-ahq1ddd4l3killkcjj3btio6iaqr7vbh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184857859044-rfbic31lfbnekitg7vc6qc2m8ok09gp3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cultivoa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
